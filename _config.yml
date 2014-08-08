@@ -1,0 +1,12 @@
+# Site settings
+title: veryniximg
+email: zhongyijun48729730 at gmail dot com
+description: "this is image site for my blog http://verynix.com,I search for a long time,and finally settle at here,I love github and jekyll for its simplycity and efficiency."
+baseurl: "/veryniximg"
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  inix
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,4 +1,5 @@
 veryniximg
 ==========
 
-image site for my blog http://verynix.com
+
+image site for my blog http://www.verynix.com
